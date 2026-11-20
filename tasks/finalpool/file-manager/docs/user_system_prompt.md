@@ -1,0 +1,1 @@
+{'type': 'text', 'text': 'failed to get file SHA: GET https://api.github.com/repos/spadonidittrichmt848-hub/BenchTasksCollv3/contents/tasks/ruige/file-manager/docs/user_system_prompt.md?ref=ruige: 404 Not Found []', 'annotations': None}
