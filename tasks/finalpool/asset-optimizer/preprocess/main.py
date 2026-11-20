@@ -1,1 +1,0 @@
-{'type': 'text', 'text': 'failed to get file SHA: GET https://api.github.com/repos/spadonidittrichmt848-hub/BenchTasksCollv3/contents/tasks/yuxuan/asset-optimizer/preprocess/main.py?ref=yuxuan-dev: 404 Not Found []', 'annotations': None}
